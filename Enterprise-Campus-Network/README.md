@@ -1,31 +1,31 @@
 # 🌐 Enterprise Campus Network Design and Implementation
 
-Design and implement a secure and scalable enterprise LAN for multiple departments using VLANs, Inter-VLAN Routing, and Layer 2 switching technologies.
+Design and implement a secure, scalable enterprise Local Area Network (LAN) using VLANs, IEEE 802.1Q Trunking, Router-on-a-Stick, and Spanning Tree Protocol (STP). This project demonstrates enterprise network segmentation, inter-VLAN communication, and Layer 2 network stability using Cisco Packet Tracer.
 
 ---
 
-## 📌 Project Overview
+# 📌 Project Overview
 
-This project simulates a small enterprise campus network consisting of four departments:
+This project simulates an enterprise campus network consisting of four departments:
 
 - Human Resources (HR)
 - Finance
 - Information Technology (IT)
 - Sales
 
-The network is segmented using VLANs to improve security and traffic management. Inter-VLAN communication is implemented using **Router-on-a-Stick**, while **IEEE 802.1Q Trunking** and **Spanning Tree Protocol (STP)** ensure reliable Layer 2 communication.
+Each department is placed in its own VLAN to improve security and reduce broadcast traffic. Inter-VLAN communication is achieved using Router-on-a-Stick, while STP prevents Layer 2 switching loops.
 
 ---
 
 # 🎯 Objectives
 
 - Design a scalable enterprise LAN
-- Configure VLANs for network segmentation
-- Configure IEEE 802.1Q Trunking
-- Implement Inter-VLAN Routing
-- Configure Router-on-a-Stick
-- Prevent Layer 2 loops using STP
+- Implement VLAN-based network segmentation
+- Configure IEEE 802.1Q trunk links
+- Configure Router-on-a-Stick for Inter-VLAN Routing
+- Configure Spanning Tree Protocol (STP)
 - Verify end-to-end connectivity
+- Practice enterprise switch and router configuration
 
 ---
 
@@ -37,20 +37,20 @@ The network is segmented using VLANs to improve security and traffic management.
 | Networking | TCP/IP, IPv4 |
 | Layer 2 | VLAN, IEEE 802.1Q Trunking, STP |
 | Routing | Router-on-a-Stick |
-| Testing | Ping, Traceroute |
+| Verification | Ping, Traceroute |
 
 ---
 
-# 🎯 Skills Demonstrated
+# 🎯 Skills Covered
 
 | Category | Skills |
 |----------|--------|
 | Networking Fundamentals | TCP/IP, OSI Model, IPv4, Subnetting |
 | Enterprise Networking | LAN Design, Routing & Switching |
-| Layer 2 Technologies | VLAN Configuration, Trunking, STP |
+| Layer 2 Technologies | VLAN Configuration, IEEE 802.1Q Trunking, STP |
 | Routing | Inter-VLAN Routing, Router-on-a-Stick |
 | Device Configuration | Switch Configuration, Router Configuration |
-| Verification | Ping, Traceroute |
+| Network Verification | Ping, Traceroute |
 
 ---
 
@@ -60,7 +60,7 @@ The network is segmented using VLANs to improve security and traffic management.
 |----------|---------|
 | Cisco Packet Tracer | 8.x or later |
 
-> **Note:** This project was designed and tested using Cisco Packet Tracer.
+> **Note:** This project was created and tested using Cisco Packet Tracer.
 
 ---
 
@@ -83,62 +83,101 @@ Enterprise-Campus-Network/
 
 # 📸 Screenshots
 
-## Network Topology
+## 🖥️ Network Topology
 
-> `screenshots/Topology.jpeg`
+Enterprise campus network topology showing routers, switches, VLANs, and end devices.
 
----
-
-## VLAN Configuration
-
-> `screenshots/VLAN.jpeg`
+![Network Topology](screenshots/Topology.jpeg)
 
 ---
 
-## Ping Verification
+## 🌐 VLAN Configuration
 
-> `screenshots/Ping.jpeg`
+Configured VLANs for HR, Finance, IT, and Sales departments with trunk links between switches.
+
+![VLAN Configuration](screenshots/VLAN.jpeg)
 
 ---
 
-## Traceroute Verification
+## 📡 Ping Verification
 
-> `screenshots/Tracert.jpeg`
+Successful ICMP connectivity test verifying communication between different VLANs.
+
+![Ping Verification](screenshots/Ping.jpeg)
+
+---
+
+## 🚀 Traceroute Verification
+
+Traceroute confirming the routing path through the Router-on-a-Stick configuration.
+
+![Traceroute Verification](screenshots/Tracert.jpeg)
 
 ---
 
 # ✅ Verification
 
-The following tests were performed successfully:
+The following tasks were successfully completed:
 
-- VLAN communication verified
-- Inter-VLAN Routing verified
-- Trunk links verified
-- STP operation verified
-- End-to-end connectivity verified
-- Successful Ping tests
-- Successful Traceroute tests
+- VLAN creation and configuration
+- IEEE 802.1Q trunk configuration
+- Router-on-a-Stick configuration
+- Inter-VLAN communication
+- STP operation
+- End-to-end network connectivity
+- Successful Ping verification
+- Successful Traceroute verification
 
 ---
 
 # 📈 Result
 
-Successfully designed and implemented a secure enterprise campus network with VLAN segmentation and Inter-VLAN Routing.
+Successfully designed and implemented a secure and scalable enterprise campus network with VLAN segmentation and Inter-VLAN Routing.
 
-The network supports secure communication between departments while maintaining scalability and efficient traffic management.
+The network enables secure communication between departments while maintaining efficient traffic management and reducing unnecessary broadcast traffic.
 
 ---
 
-# 🚀 Key Learning Outcomes
+# 📚 Key Learning Outcomes
 
 - Enterprise LAN Design
-- VLAN Planning
-- IPv4 Addressing
-- Subnetting
+- VLAN Planning and Configuration
 - IEEE 802.1Q Trunking
 - Router-on-a-Stick
+- Inter-VLAN Routing
+- IPv4 Addressing
+- Subnetting
 - Spanning Tree Protocol (STP)
 - Switch Configuration
 - Router Configuration
-- Network Verification
+- Network Testing
+- Ping & Traceroute
 - Enterprise Network Documentation
+
+---
+
+# 🔗 Project Files
+
+- 📄 Project Documentation (`README.md`)
+- 🖥️ Cisco Packet Tracer Lab (`Enterprise-Campus-Network.pkt`)
+- 📸 Network Screenshots
+- ✅ Connectivity Verification
+
+---
+
+## 👨‍💻 Author
+
+**Rajkumar S**
+
+Aspiring **Network Engineer** passionate about:
+
+- Enterprise Networking
+- Routing & Switching
+- Network Security
+- Linux Administration
+- Network Automation
+- Cloud Networking
+
+---
+
+⭐ If you found this project useful, consider giving the repository a **Star**.
