@@ -344,58 +344,13 @@ Designed and implemented an enterprise network integrating VLANs, routing, firew
 - Windows
 - Ubuntu
 - CentOS
-
+  
 ---
 
----
+Interested in:
 
-# 🛠️ Tools & Technologies
-
-| Category | Tools / Technologies |
-|----------|----------------------|
-| Network Simulation | Cisco Packet Tracer, GNS3 |
-| Operating Systems | Ubuntu, Ubuntu Server, CentOS, Windows |
-| Network Security | pfSense |
-| Packet Analysis | Wireshark |
-| Network Services | Apache, Bind9, ISC DHCP Server, OpenSSH, VSFTPD |
-| Programming & Automation | Python, Bash |
-| APIs & Data Formats | REST APIs, JSON |
-| Networking | TCP/IP, IPv4, VLAN, STP, OSPF, BGP (Concepts), MPLS (Concepts) |
-| Virtualization | VirtualBox |
-| Version Control | Git, GitHub |
-
----
-
-# 🎯 Skills Covered
-
-- Enterprise LAN Design
-- Enterprise WAN Design
-- Routing & Switching
-- VLAN Configuration
-- IEEE 802.1Q Trunking
-- Router-on-a-Stick
-- Inter-VLAN Routing
-- Spanning Tree Protocol (STP)
-- IPv4 Addressing
-- Subnetting
-- OSPF Configuration
-- BGP Fundamentals
-- MPLS Fundamentals
-- DHCP Configuration
-- DNS Configuration
-- NAT
-- Firewall Configuration
-- SSH Administration
-- FTP Server Configuration
-- HTTP / HTTPS
+- Enterprise Networking
+- Network Security
 - Linux Administration
-- Windows Networking
-- Packet Capture & Analysis
-- Network Troubleshooting
-- Python Automation
-- REST API Integration
-- Bash Scripting
-- Network Documentation
-- Ping
-- Traceroute
-
+- Network Automation
+- Cloud Networking
