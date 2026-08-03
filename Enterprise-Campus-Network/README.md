@@ -18,6 +18,12 @@ Designed a campus network consisting of HR, Finance, IT, and Sales departments u
 - STP
 - Router-on-a-Stick
 
+## Requirements
+
+- Cisco Packet Tracer 8.x or later
+
+> **Note:** This project was created and tested only in Cisco Packet Tracer.
+
 ## Skills Covered
 
 - TCP/IP
