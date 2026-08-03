@@ -1,4 +1,4 @@
-# 🌐 Network Projects
+# Network Projects
 
 A collection of hands-on networking projects focused on enterprise networking, routing & switching, network security, Linux administration, automation, and troubleshooting.
 
@@ -347,23 +347,55 @@ Designed and implemented an enterprise network integrating VLANs, routing, firew
 
 ---
 
-# 🚀 Future Projects
+---
 
-- Network Access Control (802.1X)
-- IPv6 Enterprise Network
-- SDN Fundamentals
-- Cisco DNA Center Lab
-- Network Monitoring using Zabbix
-- ELK Stack Log Analysis
-- Ansible Network Automation
-- Cloud Networking (AWS & Azure)
+# 🛠️ Tools & Technologies
+
+| Category | Tools / Technologies |
+|----------|----------------------|
+| Network Simulation | Cisco Packet Tracer, GNS3 |
+| Operating Systems | Ubuntu, Ubuntu Server, CentOS, Windows |
+| Network Security | pfSense |
+| Packet Analysis | Wireshark |
+| Network Services | Apache, Bind9, ISC DHCP Server, OpenSSH, VSFTPD |
+| Programming & Automation | Python, Bash |
+| APIs & Data Formats | REST APIs, JSON |
+| Networking | TCP/IP, IPv4, VLAN, STP, OSPF, BGP (Concepts), MPLS (Concepts) |
+| Virtualization | VirtualBox |
+| Version Control | Git, GitHub |
 
 ---
 
-Interested in:
+# 🎯 Skills Covered
 
-- Enterprise Networking
-- Network Security
+- Enterprise LAN Design
+- Enterprise WAN Design
+- Routing & Switching
+- VLAN Configuration
+- IEEE 802.1Q Trunking
+- Router-on-a-Stick
+- Inter-VLAN Routing
+- Spanning Tree Protocol (STP)
+- IPv4 Addressing
+- Subnetting
+- OSPF Configuration
+- BGP Fundamentals
+- MPLS Fundamentals
+- DHCP Configuration
+- DNS Configuration
+- NAT
+- Firewall Configuration
+- SSH Administration
+- FTP Server Configuration
+- HTTP / HTTPS
 - Linux Administration
-- Network Automation
-- Cloud Networking
+- Windows Networking
+- Packet Capture & Analysis
+- Network Troubleshooting
+- Python Automation
+- REST API Integration
+- Bash Scripting
+- Network Documentation
+- Ping
+- Traceroute
+
