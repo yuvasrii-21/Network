@@ -1,10 +1,10 @@
-# 🌐 Enterprise Campus Network Design and Implementation
+# Enterprise Campus Network Design and Implementation
 
 Design and implement a secure, scalable enterprise Local Area Network (LAN) using VLANs, IEEE 802.1Q Trunking, Router-on-a-Stick, and Spanning Tree Protocol (STP). This project demonstrates enterprise network segmentation, inter-VLAN communication, and Layer 2 network stability using Cisco Packet Tracer.
 
 ---
 
-# 📌 Project Overview
+# Project Overview
 
 This project simulates an enterprise campus network consisting of four departments:
 
@@ -17,7 +17,7 @@ Each department is placed in its own VLAN to improve security and reduce broadca
 
 ---
 
-# 🎯 Objectives
+# Objectives
 
 - Design a scalable enterprise LAN
 - Implement VLAN-based network segmentation
@@ -29,7 +29,7 @@ Each department is placed in its own VLAN to improve security and reduce broadca
 
 ---
 
-# 🛠️ Technologies Used
+# Technologies Used
 
 | Category | Technology |
 |----------|------------|
@@ -41,7 +41,7 @@ Each department is placed in its own VLAN to improve security and reduce broadca
 
 ---
 
-# 🎯 Skills Covered
+# Skills Covered
 
 | Category | Skills |
 |----------|--------|
@@ -54,7 +54,7 @@ Each department is placed in its own VLAN to improve security and reduce broadca
 
 ---
 
-# 💻 Software Requirements
+# Software Requirements
 
 | Software | Version |
 |----------|---------|
@@ -64,7 +64,7 @@ Each department is placed in its own VLAN to improve security and reduce broadca
 
 ---
 
-# 📂 Repository Structure
+# Repository Structure
 
 ```text
 Enterprise-Campus-Network/
@@ -81,9 +81,9 @@ Enterprise-Campus-Network/
 
 ---
 
-# 📸 Screenshots
+# Screenshots
 
-## 🖥️ Network Topology
+## Network Topology
 
 Enterprise campus network topology showing routers, switches, VLANs, and end devices.
 
@@ -91,7 +91,7 @@ Enterprise campus network topology showing routers, switches, VLANs, and end dev
 
 ---
 
-## 🌐 VLAN Configuration
+## VLAN Configuration
 
 Configured VLANs for HR, Finance, IT, and Sales departments with trunk links between switches.
 
@@ -99,7 +99,7 @@ Configured VLANs for HR, Finance, IT, and Sales departments with trunk links bet
 
 ---
 
-## 📡 Ping Verification
+## Ping Verification
 
 Successful ICMP connectivity test verifying communication between different VLANs.
 
@@ -107,7 +107,7 @@ Successful ICMP connectivity test verifying communication between different VLAN
 
 ---
 
-## 🚀 Traceroute Verification
+## Traceroute Verification
 
 Traceroute confirming the routing path through the Router-on-a-Stick configuration.
 
@@ -115,7 +115,7 @@ Traceroute confirming the routing path through the Router-on-a-Stick configurati
 
 ---
 
-# ✅ Verification
+# Verification
 
 The following tasks were successfully completed:
 
@@ -138,7 +138,7 @@ The network enables secure communication between departments while maintaining e
 
 ---
 
-# 📚 Key Learning Outcomes
+# Key Learning Outcomes
 
 - Enterprise LAN Design
 - VLAN Planning and Configuration
@@ -156,16 +156,16 @@ The network enables secure communication between departments while maintaining e
 
 ---
 
-# 🔗 Project Files
+# Project Files
 
-- 📄 Project Documentation (`README.md`)
-- 🖥️ Cisco Packet Tracer Lab (`Enterprise-Campus-Network.pkt`)
-- 📸 Network Screenshots
-- ✅ Connectivity Verification
+-  Project Documentation (`README.md`)
+-  Cisco Packet Tracer Lab (`Enterprise-Campus-Network.pkt`)
+-  Network Screenshots
+-  Connectivity Verification
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Rajkumar S**
 
