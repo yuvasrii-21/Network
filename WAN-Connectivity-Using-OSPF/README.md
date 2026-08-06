@@ -117,7 +117,7 @@ Multi-Branch-WAN-Connectivity-Using-OSPF/
 
 Complete enterprise WAN topology connecting Bangalore, Chennai, and Hyderabad.
 
-![Network Topology](screenshots/Network-Topology.png)
+![Network Topology](screenshots/Network-topology.png)
 
 ---
 
@@ -138,7 +138,7 @@ Verification includes:
 
 Successful end-to-end communication from Bangalore.
 
-![Ping Bangalore](screenshots/Ping-Bangalore.png)
+![Ping Bangalore](screenshots/Ping-bang.png)
 
 ---
 
